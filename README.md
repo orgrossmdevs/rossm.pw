@@ -1,5 +1,3 @@
-> Last transfer to server: N/A
-
 > Rossm.pw - Server Files
 
 # Allows users to edit files
