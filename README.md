@@ -1,3 +1,4 @@
+![CPU USAGE (10M)](http://dash.rossm.pw/api/v1/badge.svg?chart=system.cpu&alarm=10min_cpu_usage&refresh=auto "CPU Usage!")
 > Rossm.pw - Server Files
 
 # Allows users to edit files
