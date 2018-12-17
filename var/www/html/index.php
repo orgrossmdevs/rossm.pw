@@ -11,7 +11,11 @@ PORT: <?php echo $_SERVER['SERVER_PORT']; ?>
 
 
 
- <div class="footer">Ross M, Devs 2017-18 &copy; | <span class="glyphicon glyphicon-pencil"></span> <a href="https://github.com/orgrossmdevs/rossm.pw">Edit this page on github</a></div>
+
+ <div class="footer">Ross M, Devs 2017-18 &copy; | <span class="glyphicon glyphicon-pencil"></span>  <a href="https://github.com/orgrossmdevs/rossm.pw">Edit this page on github</a>
+ <br> Percentages:  <img src="https://dash.rossm.pw/api/v1/badge.svg?chart=system.cpu&alarm=10min_cpu_usage&refresh=auto" height="20"> <img src="https://dash.rossm.pw/api/v1/badge.svg?chart=disk_s$
+ </div>
+
 
 	
 <script type="text/javascript" href="#REPLACE_WITH_LIVECHAT_JS_URL">
