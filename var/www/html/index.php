@@ -18,7 +18,8 @@ PORT: <?php echo $_SERVER['SERVER_PORT']; ?>
 
 
 	
-<script type="text/javascript" href="#REPLACE_WITH_LIVECHAT_JS_URL">
+<script type="text/javascript" src="#REPLACE_WITH_LIVECHAT_JS_URL">
+	 <!-->Alert, you may need to replace this with the actually TAWK.TO Script, in later versions tawk.to doesn't allow pulling from other sources<!-->
 </script>
 
 	
